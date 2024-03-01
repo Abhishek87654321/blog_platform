@@ -1,0 +1,1 @@
+Blog Platform: Create a full-featured blog platform where users can sign up, create, edit, and delete blog posts. Include features like comments, categories, tags, and user authentication.
